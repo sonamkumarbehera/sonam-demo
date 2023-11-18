@@ -1,3 +1,3 @@
  # sonam-demo
 This is my first git repository
-host - sonamkumarbehera
+HOST - sonamkumarbehera
